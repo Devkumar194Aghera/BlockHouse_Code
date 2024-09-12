@@ -75,13 +75,20 @@ Each endpoint should return data in JSON format for the respective charts.
 
 ## Setup Instructions
 
-1. Go Inside the Frontend Folder:
+1. **Clone the Repository :**  
+   To get started, clone the repository from GitHub:
+
+```bash
+   git clone https://github.com/Devkumar194Aghera/BlockHouse_Code.git
+```
+
+2. **Go Inside the Frontend Folder :**
 
 ```
 cd frontend
 ```
 
-2. Install dependencies:
+3. **Install dependencies :**
 
 ```
 npm install
@@ -89,7 +96,7 @@ npm install
 yarn install
 ```
 
-3. Run the frontend application:
+4. **Run the frontend application :**
 
 ```
 npm run dev
@@ -97,13 +104,13 @@ npm run dev
 yarn dev
 ```
 
-4. **Configure Backend and Run**: Ensure your backend server is up and running with the necessary API routes as described above by writing below code inside terminal inside the backend folder
+5. **Configure Backend and Run**: Ensure your backend server is up and running with the necessary API routes as described above by writing below code inside terminal inside the backend folder
 
 ```
 python manage.py runserver
 ```
 
-5. Open the browser: Navigate to http://localhost:3000 to view the application.
+6. **Open the browser :** Navigate to http://localhost:3000 to view the application.
 
 ## Approach and Thought Process
 
