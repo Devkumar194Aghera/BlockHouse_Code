@@ -2,6 +2,8 @@
 
 This project is an **Interactive Analytics Dashboard** built using **React**, **Chart.js**, **Axios**, and **Tailwind CSS**. It displays various types of charts (Line, Bar, Pie, and Candlestick) by fetching dynamic data from a backend API.
 
+### Live Project Link :  https://analytics-dashboard-frontend.onrender.com/
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
